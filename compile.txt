@@ -1,0 +1,1 @@
+g++ midi_writer.cpp -o midi_writer
